@@ -36,7 +36,7 @@ const projects: Project[] = [
     tags: ["Flask","IOT", "Machine Learning","Gemini AI" ,"ESP32 Cam","ESP8266"],
     imageUrl: "https://www.niubol.com/static/upload/image/20250114/1736824575504341.jpeg",
     liveUrl: "#",
-    githubUrl: "https://github.com/RamKumar726/finalYearProject/tree/master",
+    githubUrl: "https://github.com/Karthi-1211/PlantCare-AI",
     featured: true,
   },
   {
@@ -57,8 +57,8 @@ const projects: Project[] = [
       "A responsive portfolio showcasing projects with smooth animations, built using React, TypeScript, and Tailwind CSS.",
     tags: ["ReactJS", "TypeScript", "Tailwind CSS", "Vite"],
     imageUrl: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=2069&auto=format&fit=crop",
-    liveUrl: "#",
-    githubUrl: "#",
+    liveUrl: "https://portfolio-self-six-39.vercel.app/",
+    githubUrl: "https://github.com/Karthi-1211/Personal-Portfolio",
     featured: true,
   },
   {
